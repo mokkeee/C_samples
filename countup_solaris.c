@@ -1,3 +1,8 @@
+/*--------------------------------------------------------
+ * This program does count-up from multi threads.
+ * This program's target is only Solaris.
+ *------------------------------------------------------*/
+
 #include <stdio.h>
 #include <string.h>
 #include <pthread.h>
